@@ -1,10 +1,7 @@
-# FileSorter
+File Sorter 
 
+A simple program where you can Sort your things With just one click
 
-
-
-
-
-
-
-#Contributors
+--Contributors--
+--Faborada, Nathaniel F.--
+--Bodino, John Paul P.--
